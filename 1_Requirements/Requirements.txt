@@ -1,0 +1,7 @@
+Basic System requirements 
+1Gb ram 
+windows 7 or more 
+
+Specific input from user in form of 'Character'
+C Compiler 
+Dynamic User Input

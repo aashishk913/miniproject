@@ -1,5 +1,0 @@
-Testing the game by putting various inputs and checking the outcome.
-Starting with different type of data :1 
-Characters: - a-z : Giving right answers
-numbers:- it was fine
-special characters: Not accepted

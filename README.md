@@ -1,6 +1,9 @@
 # Requirements
-Introduction
-Hangman is a paper and pencil guessing game for two or more players. One player thinks of a word, phrase or sentence and the other tries to guess it by suggesting letters within a certain number of guesses.
+# Introduction
+
+# Hangman 
+Hangman is a guessing game. One player thinks of a word, phrase or sentence and the other tries to guess it by suggesting letters within a certain number of guesses.
+But here it is one person game as other person is the computer itself.
 # Research 
 Understanding the logic behind the game giving a fair time to guess the character.
 # Defining our system

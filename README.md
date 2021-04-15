@@ -32,7 +32,7 @@ Just by Guessing Right characters
 # LOW Level Requirements:
 
 1)Dataset for game is created manually
-2)Algorithm should work without errors.
+2)Algorithm should work without errors
 3)It should be fast and responsive 
-4)It should tell the wrong answers.
+4)It should tell the wrong answers
 
